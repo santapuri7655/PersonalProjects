@@ -2,59 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce27fc0-eb06-4472-bbae-1b48a310cadd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SumThreeFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberInWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberOfDaysInMonth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberOfDaysInMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/SumOddRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/WhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/AreaCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/AreaCalculator" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/AreaCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/BarkingDog" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/BarkingDog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/BarkingDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/BarkingDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/DecimalComparator" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/DecimalComparator" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/DecimalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/DecimalComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/EqualSumChecker" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/EqualSumChecker" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/EqualSumChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/EqualSumChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/IntEqualityPrinter" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/IntEqualityPrinter" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/IntEqualityPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/IntEqualityPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/LeapYear" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/LeapYear" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/MegaBytesConverter" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MegaBytesConverter" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/MegaBytesConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MegaBytesConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/MinutesToYearsDaysCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MinutesToYearsDaysCalculator" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/MinutesToYearsDaysCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MinutesToYearsDaysCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/PlayingCat" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/PlayingCat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/PlayingCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/PlayingCat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/SpeedConverter" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/SpeedConverter" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/SpeedConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/SpeedConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/TeenNumberChecker" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/TeenNumberChecker" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/TeenNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/TeenNumberChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/AreaCalculator" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/AreaCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/BarkingDog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/BarkingDog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/DecimalComparator" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/DecimalComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/EqualSumChecker" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/EqualSumChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/IntEqualityPrinter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/IntEqualityPrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/LeapYear" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/LeapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/MegaBytesConverter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/MegaBytesConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/MinutesToYearsDaysCalculator" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/MinutesToYearsDaysCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/PlayingCat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/PlayingCat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/SpeedConverter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/SpeedConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/TeenNumberChecker" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPart1/TeenNumberChecker.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,19 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SumThreeFive.java">
+        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/WhileLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="67" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+            <state relative-caret-position="433">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/SumOddRange.java">
+        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+            <state relative-caret-position="48">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -137,12 +87,14 @@
         <option value="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/ForLoop.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SumThreeFive.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/SumOddRange.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/WhileLoop.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="129" />
-    <option name="y" value="23" />
+    <option name="x" value="39" />
+    <option name="y" value="28" />
     <option name="width" value="1303" />
     <option name="height" value="823" />
   </component>
@@ -153,7 +105,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,16 +121,18 @@
               <item name="PersonalProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PersonalProjects" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesPartTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="ControlFlowStatements" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -197,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumOddRange">
+  <component name="RunManager" selected="Application.DigitSum">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -210,22 +163,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.DigitSum" />
+      <module name="PersonalProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.ForLoop" />
-      <module name="PersonalProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberInWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartTwo.NumberInWord" />
-      <module name="PersonalProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberOfDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartTwo.NumberOfDaysInMonth" />
       <module name="PersonalProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -246,6 +192,13 @@
     </configuration>
     <configuration name="SumThreeFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.SumThreeFive" />
+      <module name="PersonalProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.WhileLoop" />
       <module name="PersonalProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -274,34 +227,35 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DigitSum" />
       <item itemvalue="Application.ForLoop" />
-      <item itemvalue="Application.NumberInWord" />
-      <item itemvalue="Application.NumberOfDaysInMonth" />
       <item itemvalue="Application.PersonalProjects" />
       <item itemvalue="Application.SumOddRange" />
       <item itemvalue="Application.SumThreeFive" />
+      <item itemvalue="Application.WhileLoop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DigitSum" />
+        <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.SumOddRange" />
         <item itemvalue="Application.SumThreeFive" />
         <item itemvalue="Application.ForLoop" />
-        <item itemvalue="Application.NumberOfDaysInMonth" />
-        <item itemvalue="Application.NumberInWord" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="129" y="23" width="1303" height="823" extended-state="0" />
+    <frame x="39" y="28" width="1303" height="823" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2180809" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23076923" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32909605" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32909605" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -544,6 +498,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/SumOddRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SumThreeFive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -551,10 +512,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/SumOddRange.java">
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/WhileLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+        <state relative-caret-position="433">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
         </state>
       </provider>
     </entry>
