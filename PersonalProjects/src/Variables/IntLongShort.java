@@ -15,6 +15,10 @@ public class IntLongShort {
         int myIntValue = 50;
         long myLongValue = (50000L + 10L * (myByteValue + myShortValue + myIntValue));
 
-        System.out.println(myLongValue);
+        System.out.println("My int Value: " + myIntValue);
+        System.out.println("My Byte value: " + myByteValue);
+        System.out.println("My Short value: " + myShortValue);
+
+        System.out.println("My long value is = sum of Int, Short and Byte" + myLongValue);
     }
 }

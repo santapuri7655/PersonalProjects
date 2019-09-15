@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce27fc0-eb06-4472-bbae-1b48a310cadd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/Palindrome" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorldChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/Variables/ByteIntLongShort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/HelloWorld/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/HelloWorld/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/META-INF/PersonalProjects.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/Variables/IntLongShort.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/Variables/IntLongShort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/Variables/LectureExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/Variables/LectureExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/Variables/IntLongShort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/Variables/IntLongShort.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,20 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorldChallenge.java">
+        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/ByteIntLongShort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="238">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -54,6 +41,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Byte</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Short</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,12 +97,15 @@
         <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberPalindrome.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorld.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorldChallenge.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/IntLongShort.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/LectureExample.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/ByteIntLongShort.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="78" />
-    <option name="y" value="23" />
+    <option name="x" value="106" />
+    <option name="y" value="35" />
     <option name="width" value="1303" />
     <option name="height" value="812" />
   </component>
@@ -135,7 +133,7 @@
               <item name="PersonalProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PersonalProjects" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="Variables" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWorldChallenge">
+  <component name="RunManager" selected="Application.ByteIntLongShort">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -176,8 +174,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.DigitSum" />
+    <configuration name="ByteIntLongShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables.ByteIntLongShort" />
       <module name="PersonalProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -197,6 +195,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IntLongShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables.IntLongShort" />
+      <module name="PersonalProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExercisesPartTwo.NumberPalindrome" />
       <module name="PersonalProjects" />
@@ -205,13 +210,6 @@
       </method>
     </configuration>
     <configuration name="PersonalProjects" type="Application" factoryName="Application">
-      <module name="PersonalProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.WhileLoop" />
       <module name="PersonalProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -241,24 +239,24 @@
     </configuration>
     <list>
       <item itemvalue="Application.PersonalProjects" />
-      <item itemvalue="Application.DigitSum" />
       <item itemvalue="Application.NumberPalindrome" />
-      <item itemvalue="Application.WhileLoop" />
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.HelloWorldChallenge" />
+      <item itemvalue="Application.IntLongShort" />
+      <item itemvalue="Application.ByteIntLongShort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ByteIntLongShort" />
+        <item itemvalue="Application.IntLongShort" />
         <item itemvalue="Application.HelloWorldChallenge" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.NumberPalindrome" />
-        <item itemvalue="Application.DigitSum" />
-        <item itemvalue="Application.WhileLoop" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="23" width="1303" height="812" extended-state="0" />
+    <frame x="106" y="35" width="1303" height="812" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2521808" />
@@ -268,15 +266,15 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49881047" visible="true" weight="0.32855093" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49801746" visible="true" weight="0.32855093" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32998565" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49801746" weight="0.32998565" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50118953" side_tool="true" visible="true" weight="0.32855093" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50198257" side_tool="true" weight="0.32855093" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49960348" weight="0.32998565" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -284,6 +282,10 @@
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello world challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello world challenge" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/IfElse.java">
@@ -532,13 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/Palindrome">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -546,10 +541,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        <state relative-caret-position="177">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorldChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -560,10 +569,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorldChallenge.java">
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/IntLongShort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="315">
+          <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/LectureExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/ByteIntLongShort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
