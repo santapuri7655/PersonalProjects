@@ -47,6 +47,5 @@ public class DigitSum
         {
             return -1;
         }
-
     }
 }

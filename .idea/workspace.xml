@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce27fc0-eb06-4472-bbae-1b48a310cadd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/Palindrome" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorldChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/HelloWorld/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/HelloWorld/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/META-INF/PersonalProjects.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,22 +22,25 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/WhileLoop.java">
+        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java">
+        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorldChallenge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -89,14 +98,18 @@
         <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/SumOddRange.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/WhileLoop.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/Palindrome" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberPalindrome.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorldChallenge.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="28" />
+    <option name="x" value="78" />
+    <option name="y" value="23" />
     <option name="width" value="1303" />
-    <option name="height" value="823" />
+    <option name="height" value="812" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -104,6 +117,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -121,13 +135,12 @@
               <item name="PersonalProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PersonalProjects" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ControlFlowStatements" type="462c0819:PsiDirectoryNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,7 +149,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DigitSum">
+  <component name="RunManager" selected="Application.HelloWorldChallenge">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -170,28 +183,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.ForLoop" />
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld.HelloWorld" />
+      <module name="PersonalProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld.HelloWorldChallenge" />
+      <module name="PersonalProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesPartTwo.NumberPalindrome" />
       <module name="PersonalProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PersonalProjects" type="Application" factoryName="Application">
-      <module name="PersonalProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOddRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartTwo.SumOddRange" />
-      <module name="PersonalProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumThreeFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.SumThreeFive" />
       <module name="PersonalProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -227,42 +240,42 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DigitSum" />
-      <item itemvalue="Application.ForLoop" />
       <item itemvalue="Application.PersonalProjects" />
-      <item itemvalue="Application.SumOddRange" />
-      <item itemvalue="Application.SumThreeFive" />
+      <item itemvalue="Application.DigitSum" />
+      <item itemvalue="Application.NumberPalindrome" />
       <item itemvalue="Application.WhileLoop" />
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.HelloWorldChallenge" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorldChallenge" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.NumberPalindrome" />
         <item itemvalue="Application.DigitSum" />
         <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.SumOddRange" />
-        <item itemvalue="Application.SumThreeFive" />
-        <item itemvalue="Application.ForLoop" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="28" width="1303" height="823" extended-state="0" />
+    <frame x="78" y="23" width="1303" height="812" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23076923" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2521808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32909605" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49881047" visible="true" weight="0.32855093" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49801746" weight="0.32998565" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50118953" side_tool="true" visible="true" weight="0.32855093" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -514,15 +527,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/WhileLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
+        <state relative-caret-position="435">
           <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="720">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/Palindrome">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorldChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
