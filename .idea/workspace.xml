@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bce27fc0-eb06-4472-bbae-1b48a310cadd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/Variables/ByteIntLongShort.java" afterDir="false" />
+    <list default="true" id="bce27fc0-eb06-4472-bbae-1b48a310cadd" name="Default Changelist" comment="hello world challenge">
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/Variables/CharBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/Variables/FloatDoubleChallange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/Variables/BooleanChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/Variables/BooleanCharChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/Variables/FloatDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/Variables/FloatDouble.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PersonalProjects/src/Variables/IntLongShort.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/Variables/IntLongShort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/Variables/LectureExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/Variables/LectureExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/Variables/BooleanChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/Variables/FloatDouble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/Variables/FloatDouble.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/Variables/IntLongShort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/Variables/IntLongShort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/Variables/LectureExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/Variables/LectureExample.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,10 +29,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/ByteIntLongShort.java">
+        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/CharBoolean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="120">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -51,6 +56,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -97,9 +103,13 @@
         <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberPalindrome.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorld.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorldChallenge.java" />
-        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/IntLongShort.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/LectureExample.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/ByteIntLongShort.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/IntLongShort.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/FloatDouble.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/FloatDoubleChallange.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/BooleanCharChallenge.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/CharBoolean.java" />
       </list>
     </option>
   </component>
@@ -161,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ByteIntLongShort">
+  <component name="RunManager" selected="Application.CharBoolean">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -181,8 +191,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld.HelloWorld" />
+    <configuration name="CharBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables.CharBoolean" />
+      <module name="PersonalProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FloatDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables.FloatDouble" />
       <module name="PersonalProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -197,13 +214,6 @@
     </configuration>
     <configuration name="IntLongShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Variables.IntLongShort" />
-      <module name="PersonalProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartTwo.NumberPalindrome" />
       <module name="PersonalProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -239,19 +249,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.PersonalProjects" />
-      <item itemvalue="Application.NumberPalindrome" />
-      <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.HelloWorldChallenge" />
       <item itemvalue="Application.IntLongShort" />
       <item itemvalue="Application.ByteIntLongShort" />
+      <item itemvalue="Application.FloatDouble" />
+      <item itemvalue="Application.CharBoolean" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharBoolean" />
+        <item itemvalue="Application.FloatDouble" />
         <item itemvalue="Application.ByteIntLongShort" />
         <item itemvalue="Application.IntLongShort" />
         <item itemvalue="Application.HelloWorldChallenge" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.NumberPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -569,13 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/IntLongShort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/LectureExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -583,10 +586,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/IntLongShort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="83" lean-forward="true" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/ByteIntLongShort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="225">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/BooleanCharChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/FloatDoubleChallange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/FloatDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/CharBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>

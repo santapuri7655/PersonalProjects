@@ -1,20 +1,25 @@
 package Variables;
 
-public class FloatDouble {
-
+public class FloatDouble
+{
     public static void main(String[] args)
     {
-        // Convert a given number of pounds to kilograms
-        // 1. Create a variable to store the number of pounds
-        // 2. Calculate the number of Kilograms for the number above and store in a variable.
-        // 3. Print out the result.
-        //
-        // NOTES: 1 pound is equal to 0.45359237 kilograms.
+        float myMaxFloatNum = Float.MAX_VALUE;
+        float myMinFloatValue = Float.MIN_VALUE;
+        System.out.println("my max float value: " + myMaxFloatNum);
+        System.out.println("my min float value: " + myMinFloatValue);
 
-        double numberOfPounds = 5d;
-        float kilos = (float)(0.45359237 * numberOfPounds);
+        double myMaxDoubleValue = Double.MAX_VALUE;
+        double myMinDoubleValue = Double.MIN_VALUE;
+        System.out.println("my max double value: " + myMaxDoubleValue);
+        System.out.println("my min double value: " + myMinDoubleValue);
 
-        System.out.println("value is: " + kilos);
+        int myIntValue = 5/3;
+        float myFloatValue = 5f / 3f ;
+        double myDoubleValue = 5.00/3.00;
 
+        System.out.println("My int value: " + myIntValue);
+        System.out.println("my float value: " + myFloatValue);
+        System.out.println("my double value: " + myDoubleValue);
     }
 }
