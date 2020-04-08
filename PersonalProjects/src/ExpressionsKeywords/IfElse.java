@@ -9,26 +9,21 @@ public class IfElse {
         // bonus set to 200
         // But make sure the first printout above still displays as well
 
-        boolean gameOver = true;
-        int score = 10000;
-        int levelCompleted = 8;
-        int bonus = 200;
+        int totalScore = calculateScore(true, 800, 5, 100);
+        System.out.println("Your total score is " + totalScore);
 
-        calculateScore(true, 800, 5, 100);
-
-        if(gameOver) {
-            int finalScore = score + (levelCompleted * bonus);
-            System.out.println("your final score was " + finalScore);
-        }
+        totalScore = calculateScore(false, 10000, 8, 200);
+        System.out.println("Your total score is " + totalScore);
 
     }
 
-    public  static void calculateScore(boolean gameOver, int score, int levelCompleted, int bonus) {
+    public static int calculateScore(boolean gameOver, int score, int levelCompleted, int bonus) {
 
         if(gameOver) {
             int finalScore = score + (levelCompleted * bonus);
-            System.out.println("Your final score was " + finalScore);
+            return finalScore;
         }
-
+        else
+            return -1;
     }
 }
