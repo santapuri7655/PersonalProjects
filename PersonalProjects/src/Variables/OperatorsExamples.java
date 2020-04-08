@@ -13,6 +13,8 @@ public class OperatorsExamples {
 
         double firstVariable = 20d;
         double secondVariable = 80d;
+        int thirdVariable = 22;
+        boolean isCar = true;
 
         double sum = firstVariable + secondVariable;
         System.out.println("sum of double variables is " + sum);
@@ -26,5 +28,17 @@ public class OperatorsExamples {
         if(remainder <= 20) {
             System.out.println("Total was over the limit");
         }
+
+        if(thirdVariable > 10 && thirdVariable < 40) {
+            System.out.println("number is between 20 and 40 and the number is: " + thirdVariable);
+        }
+        else {
+            System.out.println("number is out of range");
+        }
+
+        if(isCar) {
+            System.out.println("this is not supposed to happen");
+        }
+        else System.out.println("this is supposed to happen");
     }
 }

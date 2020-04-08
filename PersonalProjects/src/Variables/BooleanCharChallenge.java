@@ -1,6 +1,6 @@
 package Variables;
 
-public class BooleanChar {
+public class BooleanCharChallenge {
 
     public static void main(String[] args)
     {

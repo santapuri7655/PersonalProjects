@@ -3,30 +3,27 @@ package ExpressionsKeywords;
 public class IfElse {
     public static void main(String[] args) {
 
-        // Print out a second score on the screen with the following
-        // score set to 10000
+        // Print out a second score1 on the screen with the following
+        // score1 set to 10000
         // levelCompleted set to 8
         // bonus set to 200
         // But make sure the first printout above still displays as well
 
-        boolean gameOver = true;
-        int score = 10000;
-        int levelComplete = 8;
-        int bonus = 200;
+        int totalScore = calculateScore(true, 800, 5, 100);
+        System.out.println("Your total score is " + totalScore);
 
-        if(score < 10000 && score > 1000) {
-            System.out.println("your score was less than 5000 and greater than 1000");
-        }
-        else if(score < 1000) {
-            System.out.println("your score is less than 1000");
-        }
-        else {
-            System.out.println("got here");
-        }
+        totalScore = calculateScore(false, 10000, 8, 200);
+        System.out.println("Your total score is " + totalScore);
+
+    }
+
+    public static int calculateScore(boolean gameOver, int score, int levelCompleted, int bonus) {
 
         if(gameOver) {
-            int finalScore = score + (levelComplete * 5);
-            System.out.println("your final score was " + finalScore);
+            int finalScore = score + (levelCompleted * bonus);
+            return finalScore;
         }
+        else
+            return -1;
     }
 }

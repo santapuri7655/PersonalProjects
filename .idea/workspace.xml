@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bce27fc0-eb06-4472-bbae-1b48a310cadd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/WhileLoop.java" afterDir="false" />
+    <list default="true" id="bce27fc0-eb06-4472-bbae-1b48a310cadd" name="Default Changelist" comment="more lecture exercises">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExpressionsKeywords/IfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExpressionsKeywords/IfElse.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,22 +16,25 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/WhileLoop.java">
+        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/Methods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            <state relative-caret-position="226">
+              <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java">
+        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/IfElse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="279">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -46,7 +49,16 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Byte</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Short</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -89,14 +101,28 @@
         <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/SumOddRange.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/WhileLoop.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/Palindrome" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberPalindrome.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorldChallenge.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/LectureExample.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/ByteIntLongShort.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/IntLongShort.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/FloatDouble.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/FloatDoubleChallange.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/BooleanCharChallenge.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/CharBoolean.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/OperatorsExamples.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/Variables/OperatorChallenge.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/IfElse.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="28" />
-    <option name="width" value="1303" />
-    <option name="height" value="823" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="317" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="828" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -104,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,12 +146,13 @@
               <item name="PersonalProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PersonalProjects" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ControlFlowStatements" type="462c0819:PsiDirectoryNode" />
+              <item name="ExpressionsKeywords" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -136,7 +162,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DigitSum">
+  <component name="RunManager" selected="Application.IfElse">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -163,42 +189,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.DigitSum" />
+    <configuration name="ByteIntLongShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables.ByteIntLongShort" />
       <module name="PersonalProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.ForLoop" />
+    <configuration name="CharBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables.CharBoolean" />
+      <module name="PersonalProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExpressionsKeywords.IfElse" />
+      <module name="PersonalProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables.OperatorChallenge" />
+      <module name="PersonalProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorsExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables.OperatorsExamples" />
       <module name="PersonalProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PersonalProjects" type="Application" factoryName="Application">
-      <module name="PersonalProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOddRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartTwo.SumOddRange" />
-      <module name="PersonalProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumThreeFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.SumThreeFive" />
-      <module name="PersonalProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.WhileLoop" />
       <module name="PersonalProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -227,43 +253,52 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DigitSum" />
-      <item itemvalue="Application.ForLoop" />
       <item itemvalue="Application.PersonalProjects" />
-      <item itemvalue="Application.SumOddRange" />
-      <item itemvalue="Application.SumThreeFive" />
-      <item itemvalue="Application.WhileLoop" />
+      <item itemvalue="Application.ByteIntLongShort" />
+      <item itemvalue="Application.CharBoolean" />
+      <item itemvalue="Application.OperatorsExamples" />
+      <item itemvalue="Application.OperatorChallenge" />
+      <item itemvalue="Application.IfElse" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DigitSum" />
-        <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.SumOddRange" />
-        <item itemvalue="Application.SumThreeFive" />
-        <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.IfElse" />
+        <item itemvalue="Application.OperatorChallenge" />
+        <item itemvalue="Application.OperatorsExamples" />
+        <item itemvalue="Application.ByteIntLongShort" />
+        <item itemvalue="Application.CharBoolean" />
       </list>
     </recent_temporary>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="28" width="1303" height="823" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="829" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23076923" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23462088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49801746" weight="0.31792718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32959327" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32959327" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49801746" weight="0.32913166" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50198257" side_tool="true" weight="0.32855093" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.49960348" visible="true" weight="0.32913166" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -272,26 +307,17 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello world challenge" />
+    <MESSAGE value="more lecture exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="more lecture exercises" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/IfElse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPart1/SpeedConverter.html" />
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/SpeedConverter">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
           <caret line="75" column="52" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/Methods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -383,13 +409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/MethodOverloading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -514,15 +533,127 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/WhileLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
+        <state relative-caret-position="435">
           <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/Palindrome">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DigitSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="281">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorldChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/IntLongShort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="83" lean-forward="true" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/FloatDoubleChallange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/FloatDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/CharBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/LectureExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/ByteIntLongShort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/BooleanCharChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/OperatorsExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/MethodOverloading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/Methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/Variables/OperatorChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/IfElse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>

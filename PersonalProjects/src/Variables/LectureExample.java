@@ -10,8 +10,8 @@ public class LectureExample
 
         int myTotal = myFirstNumber + mySecondNumber + myThirdNumber;
 
-        int myNewTotal = 1000 - myTotal;
+        int myLastOne = 1000 - myTotal;
 
-        System.out.println(myNewTotal);
+        System.out.println(myLastOne);
     }
 }
