@@ -1,3 +1,5 @@
+package ExercisesPartOne;
+/*
 Write a method printYearsAndDays with parameter of type long named minutes.
 
 The method should not return anything (void) and it needs to calculate the years and days from the minutes parameter.
@@ -39,3 +41,22 @@ NOTES
 * Do not add main method to solution code.
 
 * The solution will not be accepted if there are extra spaces
+ */
+
+public class MinutesToYearsAndDaysCalculator {
+    public static void main(String[] args) {
+        printYearsAndDays(-323454323345L);
+    }
+
+    public static void printYearsAndDays(long minutes) {
+        if(minutes < 0) {
+            System.out.println("Invalid value");
+        }
+        else {
+            long years = minutes/(525600);
+            long remainingDays = (minutes % (525600))/(24 * 60);
+
+            System.out.println(minutes + " min = " + years + " y and " + remainingDays + " d");
+        }
+    }
+}
