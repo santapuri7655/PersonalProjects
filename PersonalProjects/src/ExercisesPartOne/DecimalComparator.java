@@ -27,5 +27,25 @@ NOTE: Do not add a  main method to solution code.
 
 public class DecimalComparator
 {
+    public static void main(String[] args) {
+        boolean equals = areEqualByThreeDecimalPlaces(-3.123, 3.123);
+        if(equals){
+            System.out.println("Both numbers are equal");
+        }
+        else {
+            System.out.println("The numbers are not equal");
+        }
+    }
+    public static boolean areEqualByThreeDecimalPlaces(double num1, double num2) {
+        double threeDecimalNum1 = num1 * 1000;
+        int n1 = (int) threeDecimalNum1;
+        double threeDecimalNum2 = num2 * 1000;
+        int n2 = (int) threeDecimalNum2;
 
+        if (n1 == n2) {
+            return true;
+        }
+        else
+            return false;
+    }
 }

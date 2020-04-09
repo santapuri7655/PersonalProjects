@@ -1,36 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="823eb8b8-988d-43f5-a262-3c8726624ad3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/PositiveNegativeZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    <list default="true" id="823eb8b8-988d-43f5-a262-3c8726624ad3" name="Default Changelist" comment="Apr 9 - Exercises">
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/InequalityPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MinutesToYearsAndDaysCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/SecondsToMinutesToHours.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/BarkingDog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/BarkingDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/BarkingDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/DecimalComparator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/AreaCalculator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/AreaCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/DecimalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/DecimalComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/LeapYear" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MegaBytesConverter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MegaBytesConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MegaBytesConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/SpeedConverter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/SpeedConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/SpeedConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/EqualSumChecker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/EqualSumChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/EqualSumChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/IntEqualityPrinter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/IntEqualityPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MinutesToYearsDaysCalculator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MinutesToYearsDaysCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/PlayingCat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/PlayingCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/PlayingCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/TeenNumberChecker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/TeenNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/TeenNumberChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/BarkingDog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/BarkingDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/BarkingDog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/SecondsAndMinutesChallenge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/AreaCalculator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/AreaCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/AreaCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/DecimalComparator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/DecimalComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/DecimalComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/EqualSumChecker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/EqualSumChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/EqualSumChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/IntEqualityPrinter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/IntEqualityPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/LeapYear" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/LeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/LeapYear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/MegaBytesConverter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/MegaBytesConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/MegaBytesConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/SpeedConverter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/SpeedConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/SpeedConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExpressionsKeywords/IfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExpressionsKeywords/IfElse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/MinutesToYearsDaysCalculator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/MinutesToYearsDaysCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/PlayingCat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/PlayingCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/PlayingCat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/TeenNumberChecker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/TeenNumberChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartOne/TeenNumberChecker.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExpressionsKeywords/MethodOverloading.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExpressionsKeywords/MethodOverloading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExpressionsKeywords/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExpressionsKeywords/Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExpressionsKeywords/SecondsAndMinutesChallenge.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,25 +51,15 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/DecimalComparator.java">
+        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/PlayingCat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="340">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
             </state>
           </provider>
         </entry>
@@ -87,7 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/MethodOverloading.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/IfElse.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/Methods.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/PositiveNegativeZero.java" />
@@ -97,13 +94,22 @@
         <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/Main.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/LeapYear.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/DecimalComparator.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/EqualSumChecker.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/TeenNumberChecker.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/MethodOverloading.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/SecondsToMinutesToHours.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/AreaCalculator.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MinutesToYearsAndDaysCalculator.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/InequalityPrinter.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/PlayingCat.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-30" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="829" />
+    <option name="height" value="828" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -111,8 +117,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeapYear">
+  <component name="RunManager" selected="Application.PlayingCat">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -169,40 +175,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartOne.LeapYear" />
+    <configuration name="AreaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesPartOne.AreaCalculator" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartOne.Main" />
+    <configuration name="InequalityPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesPartOne.InequalityPrinter" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MegaBytesConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartOne.MegaBytesConverter" />
+    <configuration name="MinutesToYearsAndDaysCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesPartOne.MinutesToYearsAndDaysCalculator" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositiveNegativeZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartOne.PositiveNegativeZero" />
+    <configuration name="PlayingCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesPartOne.PlayingCat" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpeedConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartOne.SpeedConverter" />
+    <configuration name="SecondsToMinutesToHours" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExpressionsKeywords.SecondsToMinutesToHours" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -233,39 +239,39 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MegaBytesConverter" />
-        <item itemvalue="Application.SpeedConverter" />
-        <item itemvalue="Application.PositiveNegativeZero" />
+        <item itemvalue="Application.PlayingCat" />
+        <item itemvalue="Application.InequalityPrinter" />
+        <item itemvalue="Application.MinutesToYearsAndDaysCalculator" />
+        <item itemvalue="Application.AreaCalculator" />
+        <item itemvalue="Application.SecondsToMinutesToHours" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="829" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22818312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32909605" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3277311" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32633054" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30575034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32909605" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32678822" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32913166" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,6 +299,24 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Apr 9 - Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Apr 9 - Exercises" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/HelloWorld/HelloWorld.java">
@@ -330,13 +354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/MethodOverloading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/PositiveNegativeZero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -344,13 +361,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/SpeedConverter">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="37" selection-end-line="75" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/SpeedConverter" />
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/SpeedConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -358,13 +369,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MegaBytesConverter">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="33" selection-end-column="176" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MegaBytesConverter" />
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MegaBytesConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
@@ -372,13 +377,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/BarkingDog">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="28" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/BarkingDog" />
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/BarkingDog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
@@ -386,13 +385,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/LeapYear">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="23" lean-forward="true" selection-end-line="35" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/LeapYear" />
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/LeapYear.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
@@ -400,13 +393,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/DecimalComparator">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="49" lean-forward="true" selection-end-line="21" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/DecimalComparator" />
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -416,8 +403,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/DecimalComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="341">
+          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/EqualSumChecker">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/TeenNumberChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/EqualSumChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/MethodOverloading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExpressionsKeywords/SecondsToMinutesToHours.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="42" column="60" selection-start-line="42" selection-start-column="60" selection-end-line="42" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/AreaCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/InequalityPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="71" column="1" lean-forward="true" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/MinutesToYearsAndDaysCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartOne/PlayingCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>

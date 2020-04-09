@@ -28,5 +28,29 @@ public class MethodOverloading
     // Calling another overloaded method just requires you to use the
     // right number of parameters.
 
+    public static void main(String[] args) {
+        double centimeters = calcFeetAndInchesToCentimeters(100);
+        if(centimeters < 1.0) {
+            System.out.println("Invalid number");
+        }
+        else {
+            System.out.println("Centimeters = " + centimeters);
+        }
+    }
 
+    public static double calcFeetAndInchesToCentimeters(int feet, int inches) {
+        if(feet >= 0 && (inches >=0 && inches <= 12)) {
+            return (2.54 * (inches + (12 * feet)));
+        }
+        else return -1;
+    }
+
+    public static double calcFeetAndInchesToCentimeters(double inches) {
+        if(inches >= 0) {
+            int feet = (int) inches/12;
+            int remainingInches = (int) inches % 12;
+            return calcFeetAndInchesToCentimeters(feet, remainingInches);
+        }
+        else return -1;
+    }
 }
