@@ -12,7 +12,7 @@ public class IfElse {
         int totalScore = calculateScore(true, 800, 5, 100);
         System.out.println("Your total score is " + totalScore);
 
-        totalScore = calculateScore(false, 10000, 8, 200);
+        totalScore = calculateScore(true, 10000, 8, 200);
         System.out.println("Your total score is " + totalScore);
 
     }

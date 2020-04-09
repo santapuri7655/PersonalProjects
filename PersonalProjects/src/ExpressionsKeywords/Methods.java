@@ -17,26 +17,29 @@ public class Methods {
     // call both methods and display the results of the following
     // a score of 1500, 900, 400 and 50
     //
-
     public static void main(String[] args) {
-        int playerStanding = calculateHighScorePosition(50);
-        displayHighScorePosition("Adam Smith", playerStanding);
+        int playerScore = 900;
+        String playerName = "Adam Smith";
+        int position = calculateHighScorePosition(playerScore);
+        displayHighScorePosition(playerName, position);
     }
 
-    public static void displayHighScorePosition(String playersName, int position)
-    {
+
+    public static void displayHighScorePosition(String playersName, int position) {
         System.out.println(playersName + " managed to get into position " + position + " on the high score table");
     }
 
-    public static int calculateHighScorePosition(int score)
-    {
-        if(score >= 1000)
-            return 1;
-        else if(score >= 500 && score < 1000)
-            return 2;
-        else if(score >= 100 && score < 500)
-            return 3;
-        else
-            return 4;
+    public static int calculateHighScorePosition(int score) {
+        int position = 4;
+        if(score >= 1000) {
+            position = 1;
+        }
+        else if(score >= 500 && score < 1000) {
+            position = 2;
+        }
+        else if(score >= 100 && score < 500) {
+            position = 3;
+        }
+            return position;
     }
 }
