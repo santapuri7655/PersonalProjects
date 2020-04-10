@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="823eb8b8-988d-43f5-a262-3c8726624ad3" name="Default Changelist" comment="control flow statements &#10;switch&#10;exercises on switch statements">
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DayOfWeekSwitch.java" afterDir="false" />
+    <list default="true" id="823eb8b8-988d-43f5-a262-3c8726624ad3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/CalculateInterestUsingForLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DayOfWeek.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SwitchStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SwitchStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberInWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberInWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberOfDaysInMonth" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberOfDaysInMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberOfDaysInMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ControlFlowStatements/DayOfWeek.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ControlFlowStatements/SwitchStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ControlFlowStatements/SwitchStatements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SumThreeFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SumThreeFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ControlFlowStatements/ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartTwo/NumberInWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartTwo/NumberInWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartTwo/NumberOfDaysInMonth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartTwo/NumberOfDaysInMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PersonalProjects/ExercisesPartTwo/NumberOfDaysInMonth.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,29 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/CalculateInterestUsingForLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberOfDaysInMonth.java">
+        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SumThreeFive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1251">
-              <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DayOfWeekSwitch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-619">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SwitchStatements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="59" column="27" lean-forward="true" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
+            <state relative-caret-position="480">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -96,6 +86,8 @@
         <option value="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DayOfWeekSwitch.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberInWord.java" />
         <option value="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberOfDaysInMonth.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/CalculateInterestUsingForLoop.java" />
+        <option value="$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SumThreeFive.java" />
       </list>
     </option>
   </component>
@@ -162,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberOfDaysInMonth">
+  <component name="RunManager" selected="Application.SumThreeFive">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -175,16 +167,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DayOfWeekSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.DayOfWeekSwitch" />
+    <configuration name="CalculateInterestUsingForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.CalculateInterestUsingForLoop" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartOne.DecimalComparator" />
+    <configuration name="DayOfWeekSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.DayOfWeekSwitch" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -199,8 +191,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayingCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartOne.PlayingCat" />
+    <configuration name="SumThreeFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.SumThreeFive" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -238,24 +230,25 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PlayingCat" />
-      <item itemvalue="Application.DecimalComparator" />
       <item itemvalue="Application.SwitchStatements" />
       <item itemvalue="Application.DayOfWeekSwitch" />
       <item itemvalue="Application.NumberOfDaysInMonth" />
+      <item itemvalue="Application.CalculateInterestUsingForLoop" />
+      <item itemvalue="Application.SumThreeFive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumThreeFive" />
+        <item itemvalue="Application.CalculateInterestUsingForLoop" />
         <item itemvalue="Application.NumberOfDaysInMonth" />
         <item itemvalue="Application.DayOfWeekSwitch" />
         <item itemvalue="Application.SwitchStatements" />
-        <item itemvalue="Application.DecimalComparator" />
-        <item itemvalue="Application.PlayingCat" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23104435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -264,7 +257,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30575034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30575034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -272,7 +265,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32909605" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32678822" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32819074" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32819074" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -480,6 +473,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberOfDaysInMonth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="84" column="4" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/DayOfWeekSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-619">
@@ -489,15 +489,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SwitchStatements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="59" column="27" lean-forward="true" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
+        <state relative-caret-position="143">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ExercisesPartTwo/NumberOfDaysInMonth.java">
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/CalculateInterestUsingForLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1251">
-          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+        <state relative-caret-position="198">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalProjects/src/ControlFlowStatements/SumThreeFive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
         </state>
       </provider>
     </entry>
