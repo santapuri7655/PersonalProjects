@@ -72,6 +72,7 @@ public class DiagonalStar {
             }
 
 
+
 //            for (int i = 1; i <= number; i++) {
 //                System.out.print("*");
 //            }
