@@ -2,35 +2,71 @@ package ControlFlowStatements;
 
 public class SwitchStatements
 {
-    // Create a new switch statement using char instead of int
-    // create a new char variable
-    // create a switch statement testing for
-    // A, B, C, D, or E
-    // display a message if any of these are found and then break
-    // Add a default which displays a message saying not found
+    public static void main(String[] args) {
 
-    public static void main(String[] args)
-    {
-        char c = 'd';
-        switch (c)
-        {
-            case 'a':
-                System.out.println("print letter A");
+        int switchValue = 2;
+
+        switch (switchValue) {
+            case 1:
+                System.out.println("value is 1");
                 break;
-            case 'b':
-                System.out.println("print letter B");
+
+            case 2:
+                System.out.println("value is 2");
                 break;
-            case 'c':
-                System.out.println("print letter C");
+
+            case 3:
+                System.out.println("value is 3");
                 break;
-            case 'd':
-                System.out.println("print letter D");
+
+            case 4: case 5: case 6:
+                System.out.println("value is either 4, 5 or 6");
                 break;
-            case 'e':
-                System.out.println("print letter E");
-                break;
+
             default:
-                System.out.println("this letter is not found");
+                System.out.println("none of the above");
+                break;
+        }
+
+        // Create a new switch statement using char instead of int
+        // create a new char variable
+        // create a switch statement testing for
+        // A, B, C, D, or E
+        // display a message if any of these are found and then break
+        // Add a default which displays a message saying not found
+
+        char switchChar = 'D';
+
+        switch (switchChar) {
+            case 'A':
+                System.out.println("Value is 'A'");
+                break;
+
+            case 'B':
+                System.out.println("Value is 'B'");
+                break;
+
+            case 'C': case 'D': case 'E':
+                System.out.println("Value is " + switchChar);
+                break;
+
+            default:
+                System.out.println("not found");
+        }
+
+        String month = "JANUARY";
+
+        switch (month.toLowerCase()) {
+            case "january":
+                System.out.println("Jan");
+                break;
+
+            case "june":
+                System.out.println("Jun");
+                break;
+
+            default:
+                System.out.println("Not valid");
                 break;
         }
     }
