@@ -1,6 +1,6 @@
 package OopsPartOne;
 
-public class Car {
+public class CarClass {
 
     private int doors;
     private int wheels;

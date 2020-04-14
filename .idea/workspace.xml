@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="823eb8b8-988d-43f5-a262-3c8726624ad3" name="Default Changelist" comment="coding exercises">
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Cuboid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Cylinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Rectangle.java" beforeDir="false" />
+    <list default="true" id="823eb8b8-988d-43f5-a262-3c8726624ad3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/FloorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/TestComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/WallTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/InheritanceChallenge/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/InheritanceChallenge/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/InheritanceChallenge/Porshe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/InheritanceChallenge/PorsheTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartOne/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartOne/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartOne/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartOne/CarClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartOne/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartOne/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartOne/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartOne/VIPCustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartOne/VipCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartOne/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartOne/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartOne/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartOne/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/SumCalculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/SumCalculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/SumCalculator/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/SumCalculator/SimpleCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +58,13 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="oopsPartOneAppliedStash" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="24" />
@@ -57,7 +84,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Application.PaintJob">
+  <component name="RunManager" selected="Application.CuboidTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -70,40 +97,40 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
-    <configuration name="InputCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartTwo.InputCalculator" />
+    <configuration name="CuboidTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesPartThree.CuboidTest" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinAndMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.MinAndMax" />
+    <configuration name="CylinderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesPartThree.CylinderTest" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaintJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesPartTwo.PaintJob" />
+    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OopsPartOne.DogTest" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadingUserInputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.ReadingUserInputs" />
+    <configuration name="PorsheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InheritanceChallenge.PorsheTest" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserInputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowStatements.UserInputs" />
+    <configuration name="TestComplexNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesPartThree.TestComplexNumber" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -133,19 +160,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UserInputs" />
-      <item itemvalue="Application.ReadingUserInputs" />
-      <item itemvalue="Application.MinAndMax" />
-      <item itemvalue="Application.InputCalculator" />
-      <item itemvalue="Application.PaintJob" />
+      <item itemvalue="Application.TestComplexNumber" />
+      <item itemvalue="Application.DogTest" />
+      <item itemvalue="Application.PorsheTest" />
+      <item itemvalue="Application.CylinderTest" />
+      <item itemvalue="Application.CuboidTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PaintJob" />
-        <item itemvalue="Application.InputCalculator" />
-        <item itemvalue="Application.ReadingUserInputs" />
-        <item itemvalue="Application.MinAndMax" />
-        <item itemvalue="Application.UserInputs" />
+        <item itemvalue="Application.CuboidTest" />
+        <item itemvalue="Application.CylinderTest" />
+        <item itemvalue="Application.PorsheTest" />
+        <item itemvalue="Application.DogTest" />
+        <item itemvalue="Application.TestComplexNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -180,82 +207,81 @@
     <MESSAGE value="control flow statements &#10;switch&#10;exercises on switch statements" />
     <MESSAGE value="For loop examples and exercises" />
     <MESSAGE value="coding exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="coding exercises" />
+    <MESSAGE value="coding exercises, controlflowstatements conclusion" />
+    <option name="LAST_COMMIT_MESSAGE" value="coding exercises, controlflowstatements conclusion" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586903969460">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1586885011197">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.830@0.23.1440.830" timestamp="1586903969460" />
-    <state x="297" y="23" width="846" height="829" key="CommitChangelistDialog2" timestamp="1586891786702">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser/0.23.1440.829@0.23.1440.829" timestamp="1586821028478" />
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1586884549867" />
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser/0.23.1440.831@0.23.1440.831" timestamp="1586885011197" />
+    <state x="297" y="23" width="846" height="829" key="CommitChangelistDialog2" timestamp="1586745182628">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="297" y="23" width="846" height="829" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1586662271375" />
-    <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1586891786702" />
-    <state x="100" y="124" width="1240" height="628" key="DiffContextDialog" timestamp="1586903920074">
+    <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1586745182628" />
+    <state width="1419" height="190" key="GridCell.Tab.0.bottom" timestamp="1586891215832">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state x="100" y="124" width="1240" height="628" key="DiffContextDialog/0.23.1440.830@0.23.1440.830" timestamp="1586903920074" />
-    <state width="1419" height="190" key="GridCell.Tab.0.bottom" timestamp="1586745025154">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1419" height="190" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1586738389346" />
-    <state width="1419" height="190" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1586738707241" />
-    <state width="1419" height="190" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1586742776046" />
-    <state width="1419" height="190" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1586743109716" />
-    <state width="1419" height="190" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1586745025154" />
-    <state width="1419" height="190" key="GridCell.Tab.0.center" timestamp="1586745025154">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1419" height="190" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1586738389345" />
-    <state width="1419" height="190" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1586738707240" />
-    <state width="1419" height="190" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1586742776045" />
-    <state width="1419" height="190" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1586743109716" />
-    <state width="1419" height="190" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1586745025154" />
-    <state width="1419" height="190" key="GridCell.Tab.0.left" timestamp="1586745025153">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1419" height="190" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1586738389344" />
-    <state width="1419" height="190" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1586738707240" />
-    <state width="1419" height="190" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1586742776044" />
-    <state width="1419" height="190" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1586743109715" />
-    <state width="1419" height="190" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1586745025153" />
-    <state width="1419" height="190" key="GridCell.Tab.0.right" timestamp="1586745025154">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1419" height="190" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1586738389345" />
-    <state width="1419" height="190" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1586738707240" />
-    <state width="1419" height="190" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1586742776045" />
-    <state width="1419" height="190" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1586743109716" />
-    <state width="1419" height="190" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1586745025154" />
-    <state width="1419" height="257" key="GridCell.Tab.1.bottom" timestamp="1586742395238">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state width="1419" height="257" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1586737469075" />
-    <state width="1419" height="257" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1586736593768" />
-    <state width="1419" height="257" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1586742395238" />
-    <state width="1419" height="257" key="GridCell.Tab.1.center" timestamp="1586742395238">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state width="1419" height="257" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1586737469074" />
-    <state width="1419" height="257" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1586736593767" />
-    <state width="1419" height="257" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1586742395238" />
-    <state width="1419" height="257" key="GridCell.Tab.1.left" timestamp="1586742395237">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state width="1419" height="257" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1586737469074" />
-    <state width="1419" height="257" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1586736593766" />
-    <state width="1419" height="257" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1586742395237" />
-    <state width="1419" height="257" key="GridCell.Tab.1.right" timestamp="1586742395238">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1586737469075" />
-    <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1586736593767" />
-    <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1586742395238" />
-    <state x="100" y="124" width="1240" height="628" key="ShowDiffWithBranchDialog" timestamp="1586903920074">
+    <state width="1419" height="257" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1586824635814" />
+    <state width="1419" height="190" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1586891215832" />
+    <state width="1419" height="190" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1586885925612" />
+    <state width="1419" height="257" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1586794369854" />
+    <state width="1419" height="190" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1586750357026" />
+    <state width="1419" height="190" key="GridCell.Tab.0.center" timestamp="1586891215832">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state x="100" y="124" width="1240" height="628" key="ShowDiffWithBranchDialog/0.23.1440.830@0.23.1440.830" timestamp="1586903920074" />
+    <state width="1419" height="257" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1586824635814" />
+    <state width="1419" height="190" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1586891215832" />
+    <state width="1419" height="190" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1586885925611" />
+    <state width="1419" height="257" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1586794369852" />
+    <state width="1419" height="190" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1586750357025" />
+    <state width="1419" height="190" key="GridCell.Tab.0.left" timestamp="1586891215831">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="257" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1586824635813" />
+    <state width="1419" height="190" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1586891215831" />
+    <state width="1419" height="190" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1586885925610" />
+    <state width="1419" height="257" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1586794369852" />
+    <state width="1419" height="190" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1586750357025" />
+    <state width="1419" height="190" key="GridCell.Tab.0.right" timestamp="1586891215832">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="257" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1586824635814" />
+    <state width="1419" height="190" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1586891215832" />
+    <state width="1419" height="190" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1586885925612" />
+    <state width="1419" height="257" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1586794369853" />
+    <state width="1419" height="190" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1586750357026" />
+    <state width="1419" height="257" key="GridCell.Tab.1.bottom" timestamp="1586887706073">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="257" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1586824635815" />
+    <state width="1419" height="257" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1586887706073" />
+    <state width="1419" height="257" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1586795084278" />
+    <state width="1419" height="257" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1586794370194" />
+    <state width="1419" height="257" key="GridCell.Tab.1.center" timestamp="1586887706072">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="257" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1586824635815" />
+    <state width="1419" height="257" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1586887706072" />
+    <state width="1419" height="257" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1586795084277" />
+    <state width="1419" height="257" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1586794370193" />
+    <state width="1419" height="257" key="GridCell.Tab.1.left" timestamp="1586887706071">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="257" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1586824635815" />
+    <state width="1419" height="257" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1586887706071" />
+    <state width="1419" height="257" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1586795084277" />
+    <state width="1419" height="257" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1586794370193" />
+    <state width="1419" height="257" key="GridCell.Tab.1.right" timestamp="1586887706072">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1586824635815" />
+    <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1586887706072" />
+    <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1586795084277" />
+    <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1586794370194" />
     <state x="385" y="178" width="670" height="676" key="search.everywhere.popup" timestamp="1586741834367">
       <screen x="0" y="23" width="1440" height="831" />
     </state>

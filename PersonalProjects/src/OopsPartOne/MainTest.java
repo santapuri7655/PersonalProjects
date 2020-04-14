@@ -1,10 +1,10 @@
 package OopsPartOne;
 
-public class Main {
+public class MainTest {
 
     public static void main(String[] args) {
-        Car proche = new Car();
-        Car helden = new Car();
+        CarClass proche = new CarClass();
+        CarClass helden = new CarClass();
         Person person = new Person();
 
         proche.setModel("carrera");

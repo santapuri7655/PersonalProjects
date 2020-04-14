@@ -1,0 +1,46 @@
+Index: PersonalProjects/src/ExercisesPartThree/Calculator.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- PersonalProjects/src/ExercisesPartThree/Calculator.java	(revision 6e008c8109da2825771260ae4fdc4a80cba70ae1)
++++ PersonalProjects/src/ExercisesPartThree/Calculator.java	(date 1586904071215)
+@@ -1,4 +1,14 @@
+ package ExercisesPartThree;
+ 
+ public class Calculator {
++    private Floor floor;
++    private Carpet carpet;
++
++   public Calculator(Floor floor, Carpet carpet){
++       this.floor = floor;
++       this.carpet = carpet;
++   }
++   public double getTotalCost(){
++       return floor.getArea()*carpet.getCost();
++   }
+ }
+Index: PersonalProjects/src/ExercisesPartThree/Carpet.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- PersonalProjects/src/ExercisesPartThree/Carpet.java	(revision 6e008c8109da2825771260ae4fdc4a80cba70ae1)
++++ PersonalProjects/src/ExercisesPartThree/Carpet.java	(date 1586904071216)
+@@ -1,4 +1,16 @@
+ package ExercisesPartThree;
+ 
+ public class Carpet {
++
++    private double cost;
++
++    public Carpet(double cost){
++        this.cost = cost;
++        if(this.cost<0){
++            this.cost = 0;
++        }
++    }
++    public double getCost(){
++        return cost;
++    }
+ }
