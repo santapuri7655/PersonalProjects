@@ -1,4 +1,4 @@
 package OopsPartOne;
 
-public class Main {
+public class Animal {
 }

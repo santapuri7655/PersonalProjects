@@ -1,4 +1,4 @@
 package OopsPartOne;
 
-public class Class {
+public class Person {
 }
