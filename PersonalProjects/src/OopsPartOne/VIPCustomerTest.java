@@ -1,6 +1,6 @@
 package OopsPartOne;
 
-public class VIPCustomerDetails {
+public class VIPCustomerTest {
     public static void main(String[] args) {
         VipCustomer tim = new VipCustomer();
         VipCustomer radhika = new VipCustomer("radhika", 8000);

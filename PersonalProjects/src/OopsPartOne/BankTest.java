@@ -1,6 +1,6 @@
 package OopsPartOne;
 
-public class Bank {
+public class BankTest {
     public static void main(String[] args) {
         //BankAccount bankAccount = new BankAccount();
         BankAccount bankAccount = new BankAccount(11211, 0, "adam smith", "abc@email.com", "9090980980");
