@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="823eb8b8-988d-43f5-a262-3c8726624ad3" name="Default Changelist" comment="coding exercises">
-      <change afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Cuboid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Cuboid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/ExercisesPartThree/Rectangle.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +31,13 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="oopsPartOneAppliedStash" />
       </map>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="24" />
@@ -184,11 +183,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="coding exercises" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586903969460">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.830@0.23.1440.830" timestamp="1586903969460" />
     <state x="297" y="23" width="846" height="829" key="CommitChangelistDialog2" timestamp="1586891786702">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="297" y="23" width="846" height="829" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1586662271375" />
     <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1586891786702" />
+    <state x="100" y="124" width="1240" height="628" key="DiffContextDialog" timestamp="1586903920074">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="100" y="124" width="1240" height="628" key="DiffContextDialog/0.23.1440.830@0.23.1440.830" timestamp="1586903920074" />
     <state width="1419" height="190" key="GridCell.Tab.0.bottom" timestamp="1586745025154">
       <screen x="0" y="23" width="1440" height="833" />
     </state>
@@ -245,6 +252,10 @@
     <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1586737469075" />
     <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1586736593767" />
     <state width="1419" height="257" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1586742395238" />
+    <state x="100" y="124" width="1240" height="628" key="ShowDiffWithBranchDialog" timestamp="1586903920074">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="100" y="124" width="1240" height="628" key="ShowDiffWithBranchDialog/0.23.1440.830@0.23.1440.830" timestamp="1586903920074" />
     <state x="385" y="178" width="670" height="676" key="search.everywhere.popup" timestamp="1586741834367">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
