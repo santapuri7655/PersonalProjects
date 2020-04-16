@@ -11,13 +11,9 @@ public class PC {
         this.motherBoard = motherBoard;
     }
 
-    public Case getTheCase(){
-        return theCase;
-    }
-    public Monitor getMonitor(){
-        return monitor;
-    }
-    public MotherBoard getMotherBoard(){
-        return motherBoard;
+    public void powerUp(){
+        theCase.pressPowerButton();
+        monitor.getPixelAt(20, 20, "red");
+        motherBoard.loadProgram("start program");
     }
 }

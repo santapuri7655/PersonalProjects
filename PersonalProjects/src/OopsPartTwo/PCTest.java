@@ -10,10 +10,6 @@ public class PCTest {
         MotherBoard theMotherBoard = new MotherBoard("BJ-200", "Asus", 4, 6, "v2.44");
 
         PC pc = new PC(theCase, theMonitor, theMotherBoard);
-        pc.getMonitor().getPixelAt(3,6, "red");
-        pc.getMotherBoard().loadProgram("start program");
-        pc.getTheCase().pressPowerButton();
-        System.out.println("power supply = " + pc.getTheCase().getPowerSupply());
-
+        pc.powerUp();
     }
 }
