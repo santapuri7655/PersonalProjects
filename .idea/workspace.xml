@@ -23,24 +23,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OOPMasterChallenge/BaseHamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OOPMasterChallenge/BaseHamburger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OOPMasterChallenge/Hambuger.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OOPMasterChallenge/Hambuger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/BedRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/BedRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Dimensions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Furniture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/House.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/LivingRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/LivingRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/MotherBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/MotherBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/PCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/PCTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/PrinterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Resolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalProjects/src/Polymorphism/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalProjects/src/Polymorphism/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +76,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Application.burgerTest">
+  <component name="RunManager" selected="Application.billsBurger">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -152,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="burgerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPMasterChallenge.burgerTest" />
+    <configuration name="billsBurger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPMasterChallenge.billsBurger" />
       <module name="PersonalProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -182,11 +164,11 @@
       <item itemvalue="Application.House" />
       <item itemvalue="Application.MovieTest" />
       <item itemvalue="Application.PrinterTest" />
-      <item itemvalue="Application.burgerTest" />
+      <item itemvalue="Application.billsBurger" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.burgerTest" />
+        <item itemvalue="Application.billsBurger" />
         <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.MovieTest" />
         <item itemvalue="Application.PrinterTest" />
@@ -257,35 +239,35 @@
     </state>
     <state x="297" y="23" width="846" height="829" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1586968622099" />
     <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1586745182628" />
-    <state width="1419" height="257" key="GridCell.Tab.0.bottom" timestamp="1587008474203">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state width="1419" height="190" key="GridCell.Tab.0.bottom" timestamp="1587054618394">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="190" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1586990569797" />
-    <state width="1419" height="257" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1587008474203" />
+    <state width="1419" height="190" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1587054618394" />
+    <state width="1419" height="190" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1587009454393" />
     <state width="1419" height="190" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1586885925612" />
     <state width="1419" height="257" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1586794369854" />
     <state width="1419" height="190" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1586750357026" />
-    <state width="1419" height="257" key="GridCell.Tab.0.center" timestamp="1587008474202">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state width="1419" height="190" key="GridCell.Tab.0.center" timestamp="1587054618393">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="190" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1586990569796" />
-    <state width="1419" height="257" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1587008474202" />
+    <state width="1419" height="190" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1587054618393" />
+    <state width="1419" height="190" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1587009454392" />
     <state width="1419" height="190" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1586885925611" />
     <state width="1419" height="257" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1586794369852" />
     <state width="1419" height="190" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1586750357025" />
-    <state width="1419" height="257" key="GridCell.Tab.0.left" timestamp="1587008474202">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state width="1419" height="190" key="GridCell.Tab.0.left" timestamp="1587054618393">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="190" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1586990569795" />
-    <state width="1419" height="257" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1587008474202" />
+    <state width="1419" height="190" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1587054618393" />
+    <state width="1419" height="190" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1587009454392" />
     <state width="1419" height="190" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1586885925610" />
     <state width="1419" height="257" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1586794369852" />
     <state width="1419" height="190" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1586750357025" />
-    <state width="1419" height="257" key="GridCell.Tab.0.right" timestamp="1587008474203">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state width="1419" height="190" key="GridCell.Tab.0.right" timestamp="1587054618394">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1419" height="190" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1586990569797" />
-    <state width="1419" height="257" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1587008474203" />
+    <state width="1419" height="190" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1587054618394" />
+    <state width="1419" height="190" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1587009454392" />
     <state width="1419" height="190" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1586885925612" />
     <state width="1419" height="257" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1586794369853" />
     <state width="1419" height="190" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1586750357026" />
@@ -349,11 +331,6 @@
           <url>file://$PROJECT_DIR$/PersonalProjects/src/OopsPartTwo/Printer.java</url>
           <line>36</line>
           <option name="timeStamp" value="149" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/PersonalProjects/src/OOPMasterChallenge/BaseHamburger.java</url>
-          <line>85</line>
-          <option name="timeStamp" value="159" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
