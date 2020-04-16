@@ -13,25 +13,25 @@ public class BaseHamburger {
     private boolean lettuce;
     private boolean tomato;
     private boolean carrot;
-    private int priceOfLettuce;
-    private int priceOfTomato;
-    private int priceOfCarrot;
-    private int priceOfMeat;
-    private int priceOfBreadRoll;
-    private int priceOfCheese;
+    private double priceOfLettuce;
+    private double priceOfTomato;
+    private double priceOfCarrot;
+    private double priceOfMeat;
+    private double priceOfBreadRoll;
+    private double priceOfCheese;
 
-    public BaseHamburger(String meat, int priceOfBreadRoll, boolean lettuce, boolean tomato, boolean carrot){
+    public BaseHamburger(String meat, double priceOfBreadRoll, boolean lettuce, boolean tomato, boolean carrot){
         this.breadRoll = "breadRoll";
         this.priceOfBreadRoll = priceOfBreadRoll;
         this.meat = meat;
         this.lettuce = lettuce;
         this.tomato = tomato;
         this.carrot = carrot;
-        this.priceOfLettuce = 1;
-        this.priceOfCarrot = 2;
-        this.priceOfTomato = 3;
+        this.priceOfLettuce = 1.1;
+        this.priceOfCarrot = 1.2;
+        this.priceOfTomato = 1.3;
         this.priceOfMeat = 2;
-        this.priceOfCheese = 2;
+        this.priceOfCheese = 1;
     }
 
     public String getBreadRoll() {
@@ -40,7 +40,7 @@ public class BaseHamburger {
     public String getMeat() {
         return meat;
     }
-    public int getPriceOfLettuce() {
+    public double getPriceOfLettuce() {
         if(lettuce){
             return priceOfLettuce;
         }
@@ -48,11 +48,11 @@ public class BaseHamburger {
             return 0;
         }
     }
-    public int getPriceOfCheese(){
+    public double getPriceOfCheese(){
         return priceOfCheese;
     }
 
-    public int getPriceOfTomato() {
+    public double getPriceOfTomato() {
         if(tomato){
             return priceOfTomato;
         }
@@ -61,7 +61,7 @@ public class BaseHamburger {
         }
     }
 
-    public int getPriceOfCarrot() {
+    public double getPriceOfCarrot() {
         if(carrot){
             return priceOfCarrot;
         }
@@ -69,13 +69,13 @@ public class BaseHamburger {
             return 0;
         }
     }
-    public int getPriceOfMeat() {
+    public double getPriceOfMeat() {
         return priceOfMeat;
     }
-    public int getPriceOfBreadRoll() {
+    public double getPriceOfBreadRoll() {
         return priceOfBreadRoll;
     }
-    public int getBasePrice(String meat){
+    public double getBasePrice(String meat){
         if(meat.equals("chicken")){
             return getPriceOfBreadRoll()+getPriceOfMeat();
         }
@@ -89,7 +89,7 @@ public class BaseHamburger {
             return 0;
         }
     }
-    public int getAdditionalsPrice(){
+    public double getAdditionalsPrice(){
         return getPriceOfCarrot()+getPriceOfLettuce()+getPriceOfTomato();
     }
 }

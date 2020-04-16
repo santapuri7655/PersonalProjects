@@ -16,7 +16,7 @@ public class Hambuger extends BaseHamburger{
     private String typeRoll;
     private String typeMeat;
 
-    public Hambuger(String meat, String typeRoll, String typeMeat, int priceOfBreadRoll, boolean lettuce, boolean tomato, boolean carrot) {
+    public Hambuger(String meat, String typeRoll, String typeMeat, double priceOfBreadRoll, boolean lettuce, boolean tomato, boolean carrot) {
         super(meat, priceOfBreadRoll, lettuce, tomato, carrot);
         this.typeRoll = typeRoll;
         if(this.typeRoll.equals("white bread")){
@@ -58,19 +58,19 @@ public class Hambuger extends BaseHamburger{
     public String getTypeMeat() {
         return typeMeat;
     }
-    private int getMakingChargers(){
+    private double getMakingChargers(){
         return 1;
     }
-    public int getChickenBurger() {
-        return getMakingChargers();
+    public double getChickenBurger() {
+        return getMakingChargers()+getAdditionalsPrice();
     }
-    public int getVeggieBurger() {
+    public double getVeggieBurger() {
         return getAdditionalsPrice();
     }
-    public int getSpecialBurger() {
-        return getMakingChargers()*2;
+    public double getSpecialBurger() {
+        return getAdditionalsPrice()+getMakingChargers()*2;
     }
-    private int getBurgerPrice(String burgerType){
+    private double getBurgerPrice(String burgerType){
         if(burgerType.equals("chicken")){
             return getChickenBurger();
         }
@@ -85,7 +85,7 @@ public class Hambuger extends BaseHamburger{
         }
     }
     @Override
-    public int getBasePrice(String burgerType) {
+    public double getBasePrice(String burgerType) {
         return super.getBasePrice(burgerType) + getBurgerPrice(burgerType);
     }
 
@@ -103,30 +103,38 @@ public class Hambuger extends BaseHamburger{
 class HealthyBurger extends Hambuger{
 
     private boolean spinach;
-    private int priceOfSpinach;
+    private double priceOfSpinach;
     private boolean onion;
-    private int priceOfOnion;
+    private double priceOfOnion;
 
-    public HealthyBurger(String meat, String typeRoll, String typeMeat, int priceOfBreadRoll) {
+    public HealthyBurger(String meat, String typeRoll, String typeMeat, double priceOfBreadRoll) {
         super(meat, typeRoll, typeMeat, priceOfBreadRoll, true, true, true);
-        this.priceOfSpinach = 4;
-        this.priceOfOnion = 5;
+        this.priceOfSpinach = 1.4;
+        this.priceOfOnion = 1.5;
         this.spinach = true;
         this.onion = true;
     }
 
-    public int getPriceOfSpinach() {
+    public double getPriceOfSpinach() {
         return priceOfSpinach;
     }
-    public int getPriceOfOnion() {
+    public double getPriceOfOnion() {
         return priceOfOnion;
     }
-    public int getAdditionalPrice(){
+    public double getAdditionalPrice(){
         return getPriceOfOnion() + getPriceOfSpinach();
+    }
+    public double getPriceOfAllAdditions(){
+        System.out.println("Price of Lettuce = "+getPriceOfLettuce());
+        System.out.println("Price of Tomato = " + getPriceOfTomato());
+        System.out.println("Price of Carrots = "+getPriceOfCarrot());
+        System.out.println("Price of Onion = "+getPriceOfOnion());
+        System.out.println("Price of Spinach = "+getPriceOfSpinach());
+        return getAdditionalPrice()+getAdditionalsPrice();
     }
 
     @Override
-    public int getBasePrice(String burgerType) {
+    public double getBasePrice(String burgerType) {
         return super.getBasePrice(burgerType) + getAdditionalPrice();
     }
 }
@@ -135,33 +143,33 @@ class HealthyBurger extends Hambuger{
 // hint:  You have to find a way to automatically add these new additions at the time the deluxe burger
 // object is created, and then prevent other additions being made.
 class DeluxeHamburger extends Hambuger{
-    private int chips;
-    private int drinks;
+    private double chips;
+    private double drinks;
 
-    public DeluxeHamburger(String meat, String typeRoll, String typeMeat, int priceOfBreadRoll, int chips, int drinks) {
+    public DeluxeHamburger(String meat, String typeRoll, String typeMeat, double priceOfBreadRoll, double chips, double drinks) {
         super(meat, typeRoll, typeMeat, priceOfBreadRoll, false, false, false);
         this.drinks = drinks;
         this.chips = chips;
     }
 
-    public int getChips() {
+    public double getChips() {
         return chips;
     }
-    public int getDrinks() {
+    public double getDrinks() {
         return drinks;
     }
-    private int getAdditions(){
+    private double getAdditions(){
         return getChips()+getDrinks();
     }
 
     @Override
-    public int getBasePrice(String burgerType) {
+    public double getBasePrice(String burgerType) {
         return super.getBasePrice(burgerType) + getAdditions();
     }
 }
 
 //Test burger
-class burgerTest {
+class billsBurger {
     private static String CHICKEN = "chicken";
     private static String VEGGIE = "veggie";
     private static String SPECIAL = "special meat";
@@ -170,9 +178,11 @@ class burgerTest {
     private static String RYE_BREAD = "brown rye bread";
     public static void main(String[] args) {
         Hambuger hambuger = new Hambuger(CHICKEN, WHEAT_BREAD, CHICKEN, 2, true, true, true);
-        //System.out.println("burger base price = "+ hambuger.getBasePrice(SPECIAL));
-        HealthyBurger healthyBurger = new HealthyBurger(VEGGIE, RYE_BREAD, VEGGIE, 2);
-        System.out.println("burger total price = " + healthyBurger.getBasePrice(VEGGIE));
-        System.out.println("burger additionals price = " + healthyBurger.getAdditionalPrice());
+        System.out.println("burger total price = "+ hambuger.getBasePrice(SPECIAL));
+        HealthyBurger healthyBurger = new HealthyBurger(SPECIAL, RYE_BREAD, SPECIAL, 2);
+        System.out.println("Healthy burger total price = "+ healthyBurger.getBasePrice(SPECIAL));
+        System.out.println("Price of Additionals = "+ healthyBurger.getPriceOfAllAdditions());
+        DeluxeHamburger deluxeHamburger = new DeluxeHamburger(VEGGIE, WHITE_BREAD, VEGGIE, 2, 1,1);
+        System.out.println("Price of Delux veggie burger = "+deluxeHamburger.getBasePrice(VEGGIE));
     }
 }
